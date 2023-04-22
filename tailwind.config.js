@@ -41,6 +41,7 @@ module.exports = {
         md: '1.8rem',
         base: '2.4rem',
         lg: '3.2rem',
+        icon: '3.8rem',
         xl: '4.2rem'
       },
       borderRadius: {
