@@ -62,7 +62,7 @@ module.exports = {
           300: '#b9b6b7'
         },
         outline: '#3E3D40',
-        'bg-aqi': {
+        'aqi': {
           100: '#89E589',
           150: '#1F331F',
           200: '#E5DD89',
